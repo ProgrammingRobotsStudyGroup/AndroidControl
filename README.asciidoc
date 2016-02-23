@@ -8,8 +8,6 @@
 The materials for this class are licensed under the Apache license. See the file LICENSE for details.
 
 Copyright 2015, 2016 F Douthit
-Copyright 2016 M. Walther (mw46d)
-Copyright 2015 D.P.Nielsen (Microsat)
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
